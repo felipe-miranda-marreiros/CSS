@@ -5,11 +5,15 @@ h4,
 p,
 li {
   font-family: sans-serif;
+  color: #444;
 }
-h1 {
+h1,
+h2,
+h3 {
   font-size: 26px;
   text-transform: uppercase;
   font-style: italic;
+  color: #2cc761;
 }
 
 h2 {
@@ -41,13 +45,26 @@ li {
   font-style: italic;
   font-size: 18px;
 }
-#copyright{
+#copyright {
   font-size: 16px;
 }
-.related-author{
+.related-author {
   font-size: 18px;
   font-weight: bold;
 }
-.list-style-remove{
+.list-style-remove {
   list-style: none;
+}
+.main-header {
+  background-color: #f7f7f7;
+}
+aside {
+  background-color: #f7f7f7;
+  border: 5px #2cc761 solid;
+  border-left: none;
+  border-right: none;
+}
+.external-link-color{
+  color: #2cc761;
+  text-decoration: none;
 }

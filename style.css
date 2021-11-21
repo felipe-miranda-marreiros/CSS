@@ -1,11 +1,7 @@
-h1,
-h2,
-h3,
-h4,
-p,
-li {
-  font-family: sans-serif;
+body{
   color: #444;
+  font-family: sans-serif;
+  border-top: 10px #2cc761 solid;
 }
 h1,
 h2,

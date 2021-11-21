@@ -64,7 +64,15 @@ aside {
   border-left: none;
   border-right: none;
 }
-.external-link-color{
+a:any-link{
   color: #2cc761;
   text-decoration: none;
+}
+a:visited{
+  color: #2cc761;
+}
+a:hover{
+  color: #444;
+  font-weight: bold;
+  text-decoration: underline ;
 }

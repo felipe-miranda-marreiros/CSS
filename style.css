@@ -1,3 +1,7 @@
+*{
+  margin: 0;
+  padding: 0;
+}
 body{
   color: #444;
   font-family: sans-serif;
@@ -11,13 +15,19 @@ h3 {
   font-style: italic;
   color: #2cc761;
 }
+article{
+  margin-bottom: 60px;
+}
 
 h2 {
   font-size: 40px;
+  margin-bottom: 30px;
 }
 
 h3 {
   font-size: 30px;
+  margin-bottom: 20px;
+  margin-top: 40px;
 }
 
 h4 {
@@ -29,9 +39,18 @@ h4 {
 p {
   font-size: 22px;
   line-height: 1.5;
+  margin-bottom: 15px;
+}
+ul, ol {
+  margin-left: 50px;
+  margin-bottom: 20px;
 }
 li {
   font-size: 20px;
+  margin-bottom: 10px;
+}
+li:last-child{
+  margin-bottom: 0;
 }
 /* footer p {
   font-size: 16px;
@@ -53,12 +72,18 @@ li {
 }
 .main-header {
   background-color: #f7f7f7;
+  padding: 20px 40px;
+  margin-bottom: 60px;
+}
+.post-header{
+  margin-bottom: 40px;
 }
 aside {
   background-color: #f7f7f7;
   border: 5px #2cc761 solid;
   border-left: none;
   border-right: none;
+  padding: 50px 50px;
 }
 a:any-link{
   color: #2cc761;

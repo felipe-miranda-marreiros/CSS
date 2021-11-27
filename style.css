@@ -74,6 +74,7 @@ li:last-child{
   background-color: #f7f7f7;
   padding: 20px 40px;
   margin-bottom: 60px;
+  height: 80px;
 }
 .post-header{
   margin-bottom: 40px;
@@ -84,6 +85,11 @@ aside {
   border-left: none;
   border-right: none;
   padding: 50px 50px;
+  width: 500px;
+}
+.post-img{
+  width: 100%;
+  height: auto;
 }
 a:any-link{
   color: #2cc761;

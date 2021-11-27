@@ -103,3 +103,7 @@ a:hover{
   font-weight: bold;
   text-decoration: underline ;
 }
+.container{
+  width: 700px;
+  margin: 0 auto;
+}

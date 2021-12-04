@@ -5,7 +5,6 @@
 body{
   color: #444;
   font-family: sans-serif;
-  border-top: 10px #2cc761 solid;
 }
 h1,
 h2,
@@ -107,7 +106,6 @@ nav a:link:last-child{
   background-color: #f7f7f7;
   padding: 20px 40px;
   margin-bottom: 60px;
-  height: 80px;
 }
 .post-header{
   margin-bottom: 40px;
@@ -138,8 +136,9 @@ a:hover{
   text-decoration: underline ;
 }
 .container{
-  width: 800px;
+  width: 1200px;
   margin: 0 auto;
+  border-top: 10px #2cc761 solid;
 }
 button {
   font-size: 22px;
@@ -174,4 +173,17 @@ nav{
   clear: both;
   content: "";
   display: block;
+}
+
+article{
+  width: 800px;
+  float: left;
+}
+aside{
+  width: 260px;
+  float: right;
+  
+}
+footer{
+  clear: both;
 }

@@ -138,7 +138,7 @@ a:hover{
   text-decoration: underline ;
 }
 .container{
-  width: 700px;
+  width: 800px;
   margin: 0 auto;
 }
 button {
@@ -149,4 +149,24 @@ button {
   position:absolute;
   bottom: 50px;
   right: 50px;
+}
+.author-img{
+
+  float: left;
+  margin-bottom: 20px;
+}
+#author{
+
+  float: left;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+h1{
+
+  float: left;
+}
+nav{
+
+  float: right;
 }

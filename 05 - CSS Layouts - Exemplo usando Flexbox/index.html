@@ -27,12 +27,12 @@
       </nav>
 
     </header>
-
+    <div class="row">
     <article>
 
     <header class="post-header">
       <h2>The Basic Language of the Web: HTML</h2>
-
+      <div class="author-box">
       <img
         src="./imgs/laura-jones.jpg"
         title="Laura Jones"
@@ -42,6 +42,7 @@
         class="author-img"
       />
       <p id="author">Posted by <strong>Laura Jones</strong> on Monday, June 21st 2027</p>
+    </div>
       <img
         src="./imgs/post-img.jpg"
         title="HTML code"
@@ -114,33 +115,40 @@
     <aside>
       <h4>Related Posts</h4>
     <ul class="list-style-remove">
-      <li>
+      <li class="related-post">
           <img
             src="./imgs/related-1.jpg"
             width="60"
             height="60"
             alt="Man on the computer"
           />
-          <a href="#">How to Learn Web Development</a>
+          <div>
+          <a href="#" class="related-link">How to Learn Web Development</a>
           <p class="related-author">by Jonas Schmedtmann</p>
+        </div>
         </li>
-        <li>
+        <li class="related-post">
           <img
             src="./imgs/related-2.jpg"
             width="60"
             height="60"
             alt="Man on the computer"
           />
-          <a href="#">The Unknown Powers of CSS</a>
+          <div>
+          <a href="#" class="related-link">The Unknown Powers of CSS</a>
           <p class="related-author">by Jim Dillon</p>
+        </div>
         </li>
-        <li>
-        <img src="./imgs/related-3.jpg" width="60" height="60" alt="Man on the computer"> <a href="#">Why JavaScript is Awesome</a>
+        <li class="related-post">
+        <img src="./imgs/related-3.jpg" width="60" height="60" alt="Man on the computer">
+        <div>
+        <a href="#" class="related-link">Why JavaScript is Awesome</a>
         <p class="related-author">by Matilda</p>
+      </div>
       </li>
     </ul>
     </aside>
-    
+  </div>
     <footer>
       <p id="copyright">
         Copyright &copy; 2027 by the Cody Magazine.

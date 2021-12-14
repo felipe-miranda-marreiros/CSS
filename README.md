@@ -25,3 +25,6 @@ https://maketintsandshades.com/
 
 Colors (Contrast Checker)
 https://coolors.co/
+
+Heroicons
+https://heroicons.com/

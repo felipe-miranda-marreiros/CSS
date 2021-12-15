@@ -20,11 +20,11 @@ https://caniuse.com/
 UI Gradient:
 https://uigradients.com/#RoseColoredLenses
 
-Tint & Shade Generator
+Tint & Shade Generator:
 https://maketintsandshades.com/
 
-Colors (Contrast Checker)
+Colors (Contrast Checker):
 https://coolors.co/
 
-Heroicons
+Heroicons:
 https://heroicons.com/

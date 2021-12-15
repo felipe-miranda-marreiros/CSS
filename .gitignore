@@ -1,1 +1,4 @@
 08 - Web Design/Thumbs.db
+
+#Ignore all files related to db
+.db

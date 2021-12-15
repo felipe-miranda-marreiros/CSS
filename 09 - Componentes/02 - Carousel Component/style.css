@@ -21,8 +21,7 @@ img{
     margin: 100px auto;
     border-radius: 8px;
     color: #fff;
-    padding: 32px;
-    padding-left: 86px;
+    padding: 32px 48px 32px 86px;
     display: flex;
     /* align-items: center; */
     gap: 86px;
@@ -73,4 +72,24 @@ img{
     height: 24px;
     width: 24px;
     stroke: #087f5b;
+}
+.dots{
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translate(-50%, 32px);
+
+    display: flex;
+    gap: 12px;
+}
+.dot{
+    height: 12px;
+    width: 12px;
+    background-color: #fff;
+    border: 2px solid green;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.dot:first-child{
+    background-color: #087f5b;
 }

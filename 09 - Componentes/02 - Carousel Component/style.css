@@ -24,7 +24,7 @@ img{
     padding: 32px;
     padding-left: 86px;
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     gap: 86px;
     position: relative;
 }
@@ -56,6 +56,18 @@ img{
     align-items: center;
     justify-content: center;
    
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+.btn--left{
+    left:0;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.btn--right{
+    right: 0;
+    top: 50%;
+    transform: translate(50%, -50%);
 }
 .btn-icon{
     height: 24px;

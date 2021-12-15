@@ -12,6 +12,8 @@ body{
 img{
     height: 200px;
     border-radius: 8px;
+    transform: scale(1.5);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.25);
 }
 .carousel{
     background-color: #087f5b;
@@ -20,6 +22,10 @@ img{
     border-radius: 8px;
     color: #fff;
     padding: 32px;
+    padding-left: 86px;
+    display: flex;
+    align-items: center;
+    gap: 86px;
 }
 .testimonial
 .testimonial-text{

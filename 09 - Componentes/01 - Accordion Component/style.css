@@ -21,6 +21,7 @@ GREY COLOR: #343a40
   body {
     font-family: 'Inter', sans-serif;
     color: #343a40;
+    line-height: 1;
   }
   .accordion{
       width: 700px;
@@ -32,15 +33,33 @@ GREY COLOR: #343a40
 .item{
 
 }
-.number{
+.number, .text{
 
+    font-size: 24px;
+    font-weight: 500;
+    color: #087f5b;
 }
 .text{
 
 }
 .icon{
 
+    width: 24px;
+    height: 24px;
+    stroke: #087f5b;
 }
 .hidden-box{
     
+}
+.hidden-box p{
+    line-height: 1.6;
+    margin-bottom: 24px;
+}
+.hidden-box ul{
+    color: #868e96;
+    margin-left: 20px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
 }

@@ -26,21 +26,43 @@ GREY COLOR: #343a40
   .accordion{
       width: 700px;
       margin: 100px auto;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
   }
 .accordion{
 
 }
 .item{
 
+    box-shadow: 0 0 32px rgba(0, 0 , 0, 0.1);
+    padding: 24px;
+
+    display: grid;
+    grid-template-columns:auto 1fr auto;
+    gap: 32px;
 }
 .number, .text{
 
     font-size: 24px;
     font-weight: 500;
-    color: #087f5b;
+    /* color: #087f5b; */
 }
 .text{
 
+}
+.number{
+    color: #ced4da;
+}
+.open{
+    border-top: 4px solid #087f5b;
+}
+
+.open .hidden-box{
+    display: block;
+}
+.open .number, .open .text{
+    color: #087f5b;
 }
 .icon{
 
@@ -50,6 +72,8 @@ GREY COLOR: #343a40
 }
 .hidden-box{
     
+    grid-column: 2;
+    display: none;
 }
 .hidden-box p{
     line-height: 1.6;
@@ -62,4 +86,5 @@ GREY COLOR: #343a40
     display: flex;
     flex-direction: column;
     gap: 12px;
+    line-height: 1.6;
 }

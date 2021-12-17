@@ -9,3 +9,36 @@ html{
     font-family: 'Rubik', sans-serif;
     color: #444;
 }
+nav{
+    font-size: 20px;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    font-size: 52px;
+    margin-bottom: 32px;
+}
+p{
+    font-size: 20px;
+    line-height: 1.6;
+    margin-bottom: 48px;
+}
+.btn:link,
+.btn:visited{
+    font-size: 20px;
+    font-weight: 600;
+    background-color: #e67e22;
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    padding: 16px 32px;
+    border-radius: 9px;
+}
+h2{
+    font-size: 44px;
+    margin-bottom: 48px;
+}
+section{
+    padding: 96px 0;
+}

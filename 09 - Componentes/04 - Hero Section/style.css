@@ -13,6 +13,9 @@ html{
     margin: 0 auto;
     width: 1200px;
 }
+header{
+    height: 100vh;
+}
 nav{
     font-size: 20px;
     font-weight: 700;

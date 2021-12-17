@@ -9,6 +9,10 @@ html{
     font-family: 'Rubik', sans-serif;
     color: #444;
 }
+.container{
+    margin: 0 auto;
+    width: 1200px;
+}
 nav{
     font-size: 20px;
     font-weight: 700;

@@ -16,12 +16,16 @@ html{
 header{
     height: 100vh;
     position: relative;
+    background-image: linear-gradient(rgba(35, 35, 35, 0.6), rgba(35, 35, 35, 0.6)), url(./imgs/hero.jpg);
+    background-size: cover;
+    color: #fff;
 }
 nav{
     font-size: 20px;
     font-weight: 700;
     display: flex;
     justify-content: space-between;
+    padding: 32px;
 }
 .header-container{
     width: 1200px;

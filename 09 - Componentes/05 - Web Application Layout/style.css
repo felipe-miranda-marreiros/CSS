@@ -51,4 +51,20 @@ aside {
 }
 section {
   background-color: #e9ecef;
+  padding: 40px;
+
+  /*usamos overflow com scroll para tornar visivil longos conteúdos*/
+  overflow: scroll;
+
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+.email{
+    background-color: #adb5db;
+    height: 96px;
+    display: flex;
+    flex-shrink: 0;
+    align-items: center;
+    justify-content: center;
 }

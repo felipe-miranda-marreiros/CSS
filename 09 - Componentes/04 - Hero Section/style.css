@@ -15,6 +15,7 @@ html{
 }
 header{
     height: 100vh;
+    position: relative;
 }
 nav{
     font-size: 20px;
@@ -22,9 +23,22 @@ nav{
     display: flex;
     justify-content: space-between;
 }
+.header-container{
+    width: 1200px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    /*a propriedade transform com a função translate é baseada em position aboslute e com o valor total do width, que no caso é 1200px*/
+    transform: translate(-50%, -50%);
+    /* text-align: center; */
+}
+.header-container-inner{
+    width: 50%;
+}
 h1{
     font-size: 52px;
     margin-bottom: 32px;
+    line-height: 1.5;
 }
 p{
     font-size: 20px;

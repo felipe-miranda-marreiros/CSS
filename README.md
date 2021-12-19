@@ -1,5 +1,12 @@
 # CSS
 
+# Roadmap
+
+Encontra-se aqui a visualização do meu roadmap e os assuntos que já estudei. Criado usando no site Whimsical.
+
+<a href="https://whimsical.com/css-felipe-miranda-marreiros-8JeEMMaGxNR6ZpCKrViRuB" target="_blank">CSS - Felipe Miranda Marreiros</a>
+
+
 # Referencias
 
 MDN CSS:

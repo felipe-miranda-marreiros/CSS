@@ -4,6 +4,8 @@
 
 Encontra-se aqui a visualização do meu roadmap e os assuntos que já estudei. Criado usando o site Whimsical.
 
+![Capturar](https://user-images.githubusercontent.com/91689754/147827226-2bbd236c-9d4f-44f2-aedc-38f0b3b568cb.PNG)
+
 <a href="https://whimsical.com/css-felipe-miranda-marreiros-8JeEMMaGxNR6ZpCKrViRuB" target="_blank">CSS - Felipe Miranda Marreiros</a>
 
 

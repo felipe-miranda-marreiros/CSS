@@ -62,6 +62,16 @@ Utilizando conceitos básicos de Web Desing em um exemplo de layout.
 
 ![screencapture-127-0-0-1-5500-08-Web-Design-index-html-2022-03-10-12_30_07](https://user-images.githubusercontent.com/91689754/157695813-2ecc1b2e-16f4-4d9d-ab7b-ba10330bf6b6.png)
 
+# Guia
+
+Esse repositório contém apenas arquivos HTML e CSS. Você usar Git Clone para ter acesso.
+
+```
+https://github.com/felipe-miranda-marreiros/CSS.git
+```
+
+Utilizar extensão Live Server ou abrir manualmente index.html.
+
 # Referencias
 
 <ul>

@@ -17,7 +17,7 @@ Minha evolução, bem como tudo que aprendi até agora com CSS.
 
 # Roadmap
 
-Encontra-se aqui a visualização do meu roadmap e os assuntos que já estudei. Criado usando o site Whimsical.
+Encontra-se aqui a visualização do meu roadmap e os assuntos que já estudei. Criado usando Whimsical.
 
 ![Capturar](https://user-images.githubusercontent.com/91689754/147827226-2bbd236c-9d4f-44f2-aedc-38f0b3b568cb.PNG)
 
@@ -29,10 +29,33 @@ Estou bem confiante com as minhas habilidades com Flexbox e Grid. Já estou me d
 
 <ul>
   <li>Estudar sobre Bootstrap ou Tailwind CSS;</li>
-  <li>SASS;</li>
   <li>Animações;</li>
   <li>3D.</li>
 </ul>
+
+# Componentes
+
+Exemplos de componentes individuais utilizando HTML e CSS.
+
+**According**
+
+![image](https://user-images.githubusercontent.com/91689754/157692948-8bb99b4d-539d-4dc8-ad1e-fee0590843f7.png)
+
+**Carousel**
+
+![image](https://user-images.githubusercontent.com/91689754/157693260-9fc606ee-6966-4a93-ac31-341999d059db.png)
+
+**Table**
+
+![image](https://user-images.githubusercontent.com/91689754/157693478-61944c2b-0966-4f33-917f-7a0dda8980c0.png)
+
+**Hero**
+![image](https://user-images.githubusercontent.com/91689754/157693816-b372b58b-1354-4420-b020-3ee5772f7404.png)
+
+**Application Layout**
+
+![screencapture-127-0-0-1-5500-09-Componentes-05-Web-Application-Layout-05-Web-Application-Layout-html-2022-03-10-12_22_38](https://user-images.githubusercontent.com/91689754/157694164-b288f68d-9409-4aa5-9ce7-1ee953cec76d.png)
+
 
 # Referencias
 

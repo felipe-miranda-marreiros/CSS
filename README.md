@@ -56,6 +56,11 @@ Exemplos de componentes individuais utilizando HTML e CSS.
 
 ![screencapture-127-0-0-1-5500-09-Componentes-05-Web-Application-Layout-05-Web-Application-Layout-html-2022-03-10-12_22_38](https://user-images.githubusercontent.com/91689754/157694164-b288f68d-9409-4aa5-9ce7-1ee953cec76d.png)
 
+# Web Design
+
+Utilizando conceitos básicos de Web Desing em um exemplo de layout.
+
+![screencapture-127-0-0-1-5500-08-Web-Design-index-html-2022-03-10-12_30_07](https://user-images.githubusercontent.com/91689754/157695813-2ecc1b2e-16f4-4d9d-ab7b-ba10330bf6b6.png)
 
 # Referencias
 
